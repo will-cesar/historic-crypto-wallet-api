@@ -4,7 +4,7 @@
   "description": "API that shows the historic of transactions by crypto wallet",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "ts-node-dev ./src/infra/server.ts"
   },
   "repository": {
     "type": "git",
