@@ -10,7 +10,7 @@
 > ## <a name="about"></a> About
 
 - API that shows the historic of transactions by crypto wallet
-- That API use BscScan API and CoinGecko API with database
+- That API use [BscScan API](https://docs.bscscan.com) and [CoinGecko API](https://www.coingecko.com/pt/api/documentation) with database
 
 > ## <a name="stack"></a> Stack
 
