@@ -33,3 +33,9 @@
 ```
 git clone https://github.com/will-cesar/historic-crypto-wallet-api.git
 ```
+
+### Install packages
+
+```
+npm install
+```
