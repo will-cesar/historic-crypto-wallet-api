@@ -28,6 +28,9 @@
 
 > ## <a name="run-app"></a> Run App
 
+- To run this app, is required to create a `.env` file in the root of the project, following the requirements available in `.env.local` file
+- Fill the properties with the correspondents values
+
 ### Clone
 
 ```
