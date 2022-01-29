@@ -42,3 +42,21 @@ git clone https://github.com/will-cesar/historic-crypto-wallet-api.git
 ```
 npm install
 ```
+
+### Dev environment
+
+```
+npm run dev
+```
+
+### Prod environment
+
+```
+npm run start
+```
+
+### Build
+
+```
+npm run build
+```
