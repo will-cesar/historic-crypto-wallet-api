@@ -4,7 +4,8 @@
   "description": "API that shows the historic of transactions by crypto wallet",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node-dev ./src/infra/server.ts"
+    "dev": "ts-node-dev -r dotenv/config ./src/infra/server.ts",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
