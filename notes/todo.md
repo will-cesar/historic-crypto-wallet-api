@@ -1,4 +1,4 @@
 ## To Do
 
-- [x] config prettier and eslint
-- [ ] test
+- <input type="checkbox" checked /> config prettier and eslint
+- <input type="checkbox" /> test
