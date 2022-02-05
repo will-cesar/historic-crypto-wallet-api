@@ -14,11 +14,13 @@
 
 > ## <a name="stack"></a> Stack
 
-- [Axios](https://www.npmjs.com/package/axios)
-- [Express](https://expressjs.com/pt-br/)
-- [Jest](https://www.npmjs.com/package/jest)
-- [Node.js](https://nodejs.org/en/)
-- [TypeScript](https://www.npmjs.com/package/typescript)
+- [Axios](https://www.npmjs.com/package/axios) - Axios is a promise-based HTTP Client for node.js and the browser.
+- [EditorConfig](https://editorconfig.org) - EditorConfig helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs. To use the `EditorConfig`, you need install the **EditorConfig plugin** in your IDE.
+- [Express](https://expressjs.com/pt-br/) -  Back-end web application framework for Node.js.
+- [Jest](https://www.npmjs.com/package/jest) - Is a delightful JavaScript Testing Framework.
+- [Node.js](https://nodejs.org/en/) - Is a JavaScript runtime built on Chrome's V8 JavaScript engine
+- [Prettier](https://prettier.io) - An opinionated code formatter. Integrates with most editors.
+- [TypeScript](https://www.npmjs.com/package/typescript) - TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
 
 > ## <a name="requirements-v1"></a> Requirements - v1
 
