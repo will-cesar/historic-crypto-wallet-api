@@ -1,4 +1,8 @@
 ## To Do
 
-- <input type="checkbox" checked /> config prettier and eslint
-- <input type="checkbox" /> test
+- [x] Config EditorConfig 
+- [ ] Config Prettier
+- [ ] Config ESLint
+- [ ] Config Husky
+- [ ] Config Jest
+- [ ] Config build
